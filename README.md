@@ -201,7 +201,8 @@ The app follows a "Pro" design language, prioritizing high contrast, neon accent
 This project is licensed under the MIT License.
 
 
-<img width="1187" height="1325" alt="ChatGPT Image Apr 29, 2026, 04_11_56 AM" src="https://github.com/user-attachments/assets/48daf902-4704-4ab8-a81d-b3a49faf4735" />
+<img width="768" height="849" alt="task3_feed_app" src="https://github.com/user-attachments/assets/a3d01ecd-8889-4ff4-92bf-69f6ac16a069" />
+
 
 
 # Feed App - Team NIXH
