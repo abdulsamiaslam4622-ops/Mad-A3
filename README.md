@@ -1,4 +1,4 @@
-All App's Google Link : https://drive.google.com/drive/folders/1KXCIe8kgXCpbOs2PMi4sW5HrUOXAujwE?usp=sharing
+<img width="899" height="742" alt="image" src="https://github.com/user-attachments/assets/a1a50d03-3ad2-4526-90a4-cff4e8ebc338" />All App's Google Link : https://drive.google.com/drive/folders/1KXCIe8kgXCpbOs2PMi4sW5HrUOXAujwE?usp=sharing
 
 
 <img width="433" height="482" alt="image" src="https://github.com/user-attachments/assets/3a413f3f-c3e8-40a5-b0fd-e56e2bbf9a51" />
@@ -10,7 +10,9 @@ https://github.com/abdulsamiaslam4622-ops/Mad-A2/blob/main/README.md
 
 IshratFits is a state-of-the-art mobile e-commerce platform built with **React Native (Expo SDK 55)** and a robust **Node.js/Express** backend. Designed for a premium shopping experience, it features a sleek dark mode, vibrant aesthetics, and high-performance data handling.
 
-![App Mockup](./mock.png)
+<img width="892" height="886" alt="image" src="https://github.com/user-attachments/assets/bc5bf0da-e84d-4d44-8aee-d713f35a3f13" />
+
+
 
 Click on link to Download the App: https://expo.dev/artifacts/eas/way5AfWy8P8Xzu2AU2ZNPJ.apk
 
@@ -104,7 +106,8 @@ This project is licensed under the ISC License.
 
 # 💳 Expense Tracker Pro
 
-![App Mockup](./app-mockup.png)
+<img width="886" height="886" alt="image" src="https://github.com/user-attachments/assets/6648fc27-b525-4cfb-84f7-8353d8870ba0" />
+
 
 ## 🚀 Overview
 **Expense Tracker Pro** is a high-performance, premium financial management application. Built with a sleek dark-mode aesthetic and powered by modern web technologies, it allows users to track their income and expenses with ease, featuring 3D visualizations and local-first data persistence.
@@ -209,7 +212,9 @@ This project is licensed under the MIT License.
 
 A modern, high-performance social feed application built with **React Native (Expo SDK 55)** and a **Node.js/Express** backend. This project features a premium UI design with Glassmorphism effects and seamless data synchronization.
 
-![App Mockup](./assets/mockup.png)
+
+<img width="870" height="872" alt="image" src="https://github.com/user-attachments/assets/eff3532b-1e28-4894-825d-c63785dee007" />
+
 
 ## 📱 Features
 
@@ -308,7 +313,9 @@ This project is licensed under the ISC License.
 
 Foreign Delivers is a full-stack, high-performance food delivery application designed to provide a seamless ordering experience. Built with **Expo (React Native)** for the frontend, **Node.js (Express)** for the backend, and **MySQL** for robust data management.
 
-![App Mockup](./assets/mockup.png)
+
+<img width="860" height="863" alt="image" src="https://github.com/user-attachments/assets/0c4b36e1-be7b-4a45-b204-93272c060c0a" />
+
 
 ## ✨ Key Features
 
@@ -377,7 +384,8 @@ Click on this Link to Install the App: https://expo.dev/accounts/sami9201/projec
 
 MovieHub is a sophisticated, full-stack movie booking application designed for a seamless cinematic experience. Built with a robust Node.js/MySQL backend and a sleek React Native (Expo) frontend, it allows users to browse current blockbusters, select their preferred seats, and book tickets in real-time.
 
-![MovieHub Mockup](./movie_hub_mockup_1777443561332.png)
+<img width="887" height="718" alt="image" src="https://github.com/user-attachments/assets/5f73e7f8-0477-4da7-b508-7ae1a84b4175" />
+
 
 ## ✨ Features
 
